@@ -31,7 +31,8 @@
 - Sharing updates on Linkedin-<a href="http://linkedin.com/in/ashish-verma-soni-175a67174">@LinkedIn</a>
 - Follow me on Twitter-<a href="https://twitter.com/i_m_ashishsoni">@Twitter</a>
 - Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/ashishsoni(ra1911042010102)">@HackerRank</a>
-- 
+- Follow me on Instagram-<a href="https://www.instagram.com/ashish.s0ni/?hl=en">@Instagram</a>
+
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/ashish-verma-soni-175a67174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ashish-verma-soni-175a67174" height="30" width="40" /></a>
 <a href="https://fb.com/master.ashishverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="master.ashishverma" height="30" width="40" /></a>
