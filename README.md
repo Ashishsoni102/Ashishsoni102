@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **av.ashishsoni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing](https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing)
+- 📄 Know about my experiences(Resume) [https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing](https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
