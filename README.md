@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishsoni102?tab=repositories](https://github.com/Ashishsoni102?tab=projects&type=beta)
 
-- 💬 Ask me about **C, C++, Pyhton, HTML**
+- 💬 Ask me about **C, C++, Python, HTML**
 
 - 📫 How to reach me **av.ashishsoni@gmail.com**
 
