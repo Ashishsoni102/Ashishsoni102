@@ -28,9 +28,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Find me around the web :</h2>
+
 - Sharing updates on Linkedin-‹ahref="http://linkedin.com/in/ashish-verma-soni-175a67174">@LinkedIn</a›
 - Follow me on Twitter-‹a href="https://twitter.com/itsTarun24"›@Twitter</a›
-- Check my Tech profile on HackerRank-‹a href-"https://www.hackerrank.com/ashish soni(ra1911042010102)"›@HackerRank‹/a›
+- Check my Tech profile on HackerRank-‹a href-"https://www.hackerrank.com/ashishsoni(ra1911042010102)"›@HackerRank‹/a›
 - Know about my experiences(Resume) [https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing](https://drive.google.com/drive/folders/1UbnsszRuTL1HAROcQAsO_-jErIWQucT1?usp=sharing)
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/ashish-verma-soni-175a67174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ashish-verma-soni-175a67174" height="30" width="40" /></a>
@@ -41,4 +42,3 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishsoni102)](https://github.com/anuraghazra/github-readme-stats)
-
