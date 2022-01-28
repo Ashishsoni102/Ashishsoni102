@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Backend Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashishsoni102?tab=projects&type=beta](https://github.com/Ashishsoni102?tab=projects&type=beta)
+- 👨‍💻 All of my projects are available at [https://github.com/Ashishsoni102?tab=repositories](https://github.com/Ashishsoni102?tab=projects&type=beta)
 
 - 💬 Ask me about **C, C++, Pyhton, HTML**
 
