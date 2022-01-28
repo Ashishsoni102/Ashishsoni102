@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **frontend projects**
 - 🌱 I’m currently learning more about **Full Stack development Course**
 - 🤝 I’m looking for help with **Backend Developer**
-- 👨‍💻 All of my projects are available at [https://github.com/Ashishsoni102?tab=repositories](https://github.com/Ashishsoni102?tab=projects&type=beta)
+- 👨‍💻 All of my projects are available at < a href="https://github.com/Ashishsoni102?tab=repositories">@Projects</a>
 - 📫 How to reach me **av.ashishsoni@gmail.com**
 
 <h2> My skills include :</h2>
@@ -30,7 +30,7 @@
 
 - Sharing updates on Linkedin-<a href="http://linkedin.com/in/ashish-verma-soni-175a67174">@LinkedIn</a>
 - Follow me on Twitter-<a href="https://twitter.com/i_m_ashishsoni">@Twitter</a>
-- Check my Tech profile on HackerRank-<a href-"https://www.hackerrank.com/ashishsoni(ra1911042010102)">@HackerRank</a>
+- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/ashishsoni(ra1911042010102)">@HackerRank</a>
 - 
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/ashish-verma-soni-175a67174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ashish-verma-soni-175a67174" height="30" width="40" /></a>
