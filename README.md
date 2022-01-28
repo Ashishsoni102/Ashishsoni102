@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **frontend projects**
 - 🌱 I’m currently learning more about **Full Stack development Course**
 - 🤝 I’m looking for help with **Backend Developer**
-- 👨‍💻 All of my projects are available at < a href="https://github.com/Ashishsoni102?tab=repositories">@Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Ashishsoni102?tab=repositories">@Projects </a>
 - 📫 How to reach me **av.ashishsoni@gmail.com**
 
 <h2> My skills include :</h2>
